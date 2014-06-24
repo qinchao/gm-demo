@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/application.conf,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/evolutions,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/evolutions)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/META-INF,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/routes,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/evolutions/default,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/evolutions/default)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/evolutions/default/1.sql,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/evolutions/default/1.sql)[0m
+[0m[[0mdebug[0m] [0m	(/Users/qinchao/play-spring-data-jpa/conf/META-INF/persistence.xml,/Users/qinchao/play-spring-data-jpa/target/scala-2.10/classes/META-INF/persistence.xml)[0m
