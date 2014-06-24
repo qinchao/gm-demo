@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.springframework:spring-aop:3.1.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.springframework/spring-aop/jars/spring-aop-3.1.4.RELEASE.jar!/"/>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>
