@@ -5,6 +5,8 @@ tmp
 dump
 
 # Intellij
+.idea/libraries/
+.idea_modules/
  
 # Eclipse
 .settings
