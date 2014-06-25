@@ -2,7 +2,7 @@
  * Copyright 2014-present GMSD tech inc. All Rights Reserved.
  */
 
-package models.com.gmsd.core;
+package models.com.gmsd.core.product;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -13,12 +13,8 @@ import java.util.Date;
  * associated with collections of these model objects belong to the PersonRepository e.g. findOne, findAll etc.
  * Play Java will synthesise getter and setter methods for us and therefore keep JPA happy (JPA expects them).
  */
-@Entity
-@Table(name = "Plan")
-public class Plan {
-    @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
-    public Long id;
+@MappedSuperclass
+public abstract class BaseFinancialProduct {
 
     @Column(nullable = false)
     public String name;
