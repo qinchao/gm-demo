@@ -5,7 +5,8 @@
 package controllers.com.gmsd.core.order;
 
 /**
- * Created by qinchao on 6/24/14.
+ * Business manager class for creating and verifying the orders.
  */
 public class OrderManager {
+
 }

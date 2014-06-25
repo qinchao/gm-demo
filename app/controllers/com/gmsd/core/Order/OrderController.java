@@ -17,10 +17,9 @@ import java.util.Date;
 public class OrderController extends Controller {
 
   public Result doOrder() {
-    // Parse the request, and generate the entity
-
-    // 
-
+    // Logic:
+    // 1. Parse the request, and generate the entity
+    // 2. Delegate to order manager class
     return Results.forbidden("Unimplemented");
   }
 
