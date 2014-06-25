@@ -5,7 +5,6 @@
 # Home page - we use the @controllers syntax here so that the router knows we are referring to a class. In turn it
 # will call on the GlobalSettings.getController method to resolve the actual controller instance.
 GET     /                           @controllers.Application.index
-GET     /clientProducts             @controllers.com.gmsd.core.SampleProductController.clientProducts
 
 # GMSD order transaction core
 GET     /queryPlans                 @controllers.com.gmsd.core.PlanController.queryPlans

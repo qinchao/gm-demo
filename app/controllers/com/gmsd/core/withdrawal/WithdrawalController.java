@@ -2,7 +2,7 @@
  * Copyright 2014-present GMSD tech inc. All Rights Reserved.
  */
 
-package controllers.com.gmsd.core;
+package controllers.com.gmsd.core.withdrawal;
 
 import play.mvc.Controller;
 import play.mvc.Result;

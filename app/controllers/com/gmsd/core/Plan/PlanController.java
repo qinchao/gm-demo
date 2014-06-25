@@ -2,7 +2,7 @@
  * Copyright 2014-present GMSD tech inc. All Rights Reserved.
  */
 
-package controllers.com.gmsd.core;
+package controllers.com.gmsd.core.plan;
 
 import models.com.gmsd.core.plan.Plan;
 import models.com.gmsd.core.plan.PlanRepository;

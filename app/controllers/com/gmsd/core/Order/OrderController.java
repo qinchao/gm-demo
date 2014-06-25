@@ -2,7 +2,7 @@
  * Copyright 2014-present GMSD tech inc. All Rights Reserved.
  */
 
-package controllers.com.gmsd.core;
+package controllers.com.gmsd.core.order;
 
 import play.mvc.Controller;
 import play.mvc.Result;
@@ -17,6 +17,10 @@ import java.util.Date;
 public class OrderController extends Controller {
 
   public Result doOrder() {
+    // Parse the request, and generate the entity
+
+    // 
+
     return Results.forbidden("Unimplemented");
   }
 
