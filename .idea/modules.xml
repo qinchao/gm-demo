@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/gm_core.iml" filepath="$PROJECT_DIR$/.idea_modules/gm_core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gm_demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/gm_demo-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/play-spring-data-jpa-build.iml" filepath="$PROJECT_DIR$/.idea_modules/play-spring-data-jpa-build.iml" />
+      <module 
+      fileurl="file://$PROJECT_DIR$/.idea_modules/play-spring-data-jpa-build.iml" filepath="$PROJECT_DIR$/.idea_modules/play-spring-data-jpa-build.iml">
+</module>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/play-spring-data-jpa.iml" filepath="$PROJECT_DIR$/.idea_modules/play-spring-data-jpa.iml"/>
     </modules>
   </component>
 </project>
-
