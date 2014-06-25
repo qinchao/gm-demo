@@ -7,6 +7,7 @@ dump
 # Intellij
 .idea/libraries/
 .idea_modules/
+.idea/misc.xml
  
 # Eclipse
 .settings
