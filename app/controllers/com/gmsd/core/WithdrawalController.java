@@ -1,4 +1,8 @@
-package controllers;
+/*
+ * Copyright 2014-present GMSD tech inc. All Rights Reserved.
+ */
+
+package controllers.com.gmsd.core;
 
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.JsonNodeFactory;
@@ -12,7 +16,7 @@ import javax.inject.Singleton;
 
 @Named
 @Singleton
-public class ClientProductController extends Controller {
+public class WithdrawalController extends Controller {
 
   public Result clientProducts() {
     ArrayNode products = _getProductList();

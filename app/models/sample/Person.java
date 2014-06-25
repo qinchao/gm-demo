@@ -1,4 +1,8 @@
-package models;
+/*
+ * Copyright 2014-present GMSD tech inc. All Rights Reserved.
+ */
+
+package models.sample;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

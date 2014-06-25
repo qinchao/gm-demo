@@ -1,7 +1,7 @@
 package controllers;
 
-import models.Person;
-import models.PersonRepository;
+import models.sample.Person;
+import models.sample.PersonRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

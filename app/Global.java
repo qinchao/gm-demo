@@ -1,3 +1,7 @@
+/*
+ * Copyright 2014-present GMSD tech inc. All Rights Reserved.
+ */
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
